@@ -17,7 +17,7 @@ Since this is a vanilla HTML/JS/CSS app, there is no complicated build environme
    ```bash
    python -m http.server 8080
    ```
-4. Open your browser and navigate to `http://localhost:8080/`.
+4. Open your browser and navigate to `https://career-ai-dun-six.vercel.app/`.
 
 ## Architecture
 - `index.html`: The HTML application shell.
