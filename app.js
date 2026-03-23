@@ -42,7 +42,7 @@
 
 // ---- State ----
 const state = {
-  apiKey: 'enter your api key from ASI:ONE',
+  apiKey: 'sk_f60f8bd4322046b6b48e7060333f384a406e4689452e4d209470b6a7937df36f',
   messages: [],
   isStreaming: false,
   analysisData: null,
